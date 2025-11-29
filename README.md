@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Interactive Fitness Assessment Cube
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Longevity-Prism
+>>>>>>> a8ea6dedbe86e61da720a206b5a9d812a73e1a52
